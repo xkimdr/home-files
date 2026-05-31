@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ns0:settings
+    xmlns:ns0="http://maven.apache.org/SETTINGS/1.0.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://maven.apache.org/SETTINGS/1.0.0 https://maven.apache.org/xsd/settings-1.0.0.xsd"
+>
+    <ns0:localRepository
+    >${user.home}/.local/share/maven/repository</ns0:localRepository>
+    <ns0:interactiveMode>true</ns0:interactiveMode>
+    <ns0:offline>false</ns0:offline>
+</ns0:settings>
